@@ -112,5 +112,5 @@ def main():
     elif option == "Contact":
         st.write("Contact us at contact@example.com")
 
-if _name_ == "_main_":
-    main()
+# if _name_ == "_main_":
+#     main()
